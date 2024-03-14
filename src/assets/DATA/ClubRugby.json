@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "Nombre": "Burros blancos IPN",
+        "Estado": "CDMX",
+        "Domicilio": "CAMPO H EN LOBOS PLATEADOS",
+        "Correo": "burrosblancosrugbyipn@gmail.com"
+    },
+    {
+        "id": "2",
+        "Nombre": "CLUB DE RUGBY ESPARTANOS DE COLIMA",
+        "Estado": "COLIMA",
+        "Domicilio": "UNIDAD DEPORTIVA MORELOS",
+        "Correo": "rugbyespartanos@gmail.com"
+    },
+    {
+        "id": "3",
+        "Nombre": "CLUB DE RUGBY TEC DE MONTERREY",
+        "Estado": "MONTERREY",
+        "Domicilio": "CLUB DEPORTIVO MORELOS",
+        "Correo": "itesmrugby@gmail.com"
+    },
+    {
+        "id": "4",
+        "Nombre": "COATIES RUGBY CLUB",
+        "Estado": "MONTERREY",
+        "Domicilio": "PARQUE EL CAPITAN",
+        "Correo": "fjorditortr@gmail.com"
+    },
+    {
+        "id": "5",
+        "Nombre": "LOBOS RUGBY AC",
+        "Estado": "JALISCO",
+        "Domicilio": "INSTITUTO DE CIENCIAS ZAPOPAN",
+        "Correo": "gabri_nanni@hotmail.com"
+    },
+    {
+        "id": "6",
+        "Nombre": "PUMAS RUGBY UNAM",
+        "Estado": "CDMX",
+        "Domicilio": "DEPORTIVO HARP HELU",
+        "Correo": "rugby@deporte.unam.mx"
+    },
+    {
+        "id": "7",
+        "Nombre": "ROOSTERS RUGBY CLUB",
+        "Estado": "QUERETARO",
+        "Domicilio": "ESTADIO MUNICIPAL",
+        "Correo": "qrroosters.01@gmail.com"
+    },
+    {
+        "id": "8",
+        "Nombre": "SAN LUIS RUGBY CLUB",
+        "Estado": "SAN LUIS POTOSI",
+        "Domicilio": "INSTITUTO POTOSINO DEL DEPORTE",
+        "Correo": "rugbyclubsanluis@gmail.com"
+    },
+    {
+        "id": "9",
+        "Nombre": "NOMADAS RUGBY CLUB",
+        "Estado": "SAN LUIS POTOSI",
+        "Domicilio": "UNIDAD DEPORTIVA UNIVERSITARIA",
+        "Correo": "nomadasrugbyclubsanluis@gmail.com"
+    },
+    {
+        "id": "10",
+        "Nombre": "UASLP AGUILAS RUGBY",
+        "Estado": "SAN LUIS POTOSI",
+        "Domicilio": "UNIDAD DEPORTIVA UNIVERSITARIA",
+        "Correo": "aguilasuaslp@gmail.com"
+    }
+]
